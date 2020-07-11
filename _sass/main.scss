@@ -27,3 +27,15 @@ $primary-invert: $pink-invert;
 */
 
 @import "../node_modules/bulma/bulma";
+
+.hero{
+  background: url("../images/header-bg.jpg") center no-repeat  ;
+  background-size: cover;
+}
+section.section{
+  background: url("../images/header-bg2.jpeg") center no-repeat  ;
+  background-size: cover;
+}
+button.button{
+  color: white;
+}
